@@ -4,7 +4,7 @@
 
 This website is a straightforward and user-friendly to-do-list, created with HTML, CSS, and JS. Its simplicity makes it easy to use and navigate, allowing users to quickly add, edit, and delete tasks as needed
 
-  <a href="https://alphaotuken.github.io/Simple-To-Do/#"><strong>➥ Live Demo</strong></a>
+  <a href="https://alphaotuken.github.io/Simple-To-Do/"><strong>➥ Live Demo</strong></a>
  
 
   <br />
@@ -16,7 +16,7 @@ This website is a straightforward and user-friendly to-do-list, created with HTM
 
 ### Demo Screeshots
 
-![Simple-To-Do Desktop Demo](https://user-images.githubusercontent.com/100890340/236615976-f3fd96f5-701a-4816-8304-46e82afe36d7.png)
+![Simple-To-Do Desktop Demo](https://user-images.githubusercontent.com/100890340/236616209-2cdd203e-1869-4fa1-8f03-e8fc54c6dfb7.png)
 
 ### Contact
 
